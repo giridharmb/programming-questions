@@ -32,6 +32,8 @@ Efficient memory usage
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/01-prefix-sum.go)
 
+---
+
 #### 2: Two Pointers
 
 ```
@@ -53,6 +55,8 @@ Clean Go style with helper functions
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/02-two-pointers.go)
 
+---
+
 #### 3: Sliding Window
 
 ```
@@ -73,6 +77,8 @@ Clean Go idioms and error handling
 ```
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/03-sliding-window.go)
+
+---
 
 #### 4: Linked List & Fast Slow Pointers
 
@@ -97,6 +103,8 @@ Clean Go idioms
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/04-linked-list-fast-slow-pointers.go)
 
+---
+
 #### 5: Linked List Reversal
 
 ```
@@ -118,6 +126,8 @@ Detailed time/space complexity analysis
 ```
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/05-linked-list-reversal.go)
+
+---
 
 #### 6: Monotonic Stack
 
@@ -142,6 +152,8 @@ Clean Go idioms
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/06-monotonic-stack.go)
 
+---
+
 #### 7: Top-K Elements
 
 ```
@@ -163,6 +175,8 @@ Clean Go interfaces
 ```
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/07-top-k-elements.go)
+
+---
 
 #### 8: Overlapping Intervals
 
@@ -186,6 +200,8 @@ Clean Go idioms
 ```
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/08-overlapping-intervals.go)
+
+---
 
 #### 9: Binary Search
 
@@ -211,6 +227,8 @@ Clean Go idioms
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/09-binary-search.go)
 
+---
+
 #### 10: Binary Tree Traversal
 
 ```
@@ -234,6 +252,8 @@ Clean Go idioms
 ```
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/10-binary-tree-traversal.go)
+
+---
 
 #### 11: Depth First Search + Graph + Tree
 
@@ -263,6 +283,8 @@ Clean Go idioms
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/11-dfs-graph-tree.go)
 
+---
+
 #### 12: BFS + Graph + Tree
 
 ```
@@ -291,6 +313,8 @@ Comprehensive test cases
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/12-bfs-graph-tree.go)
 
+---
+
 #### 13: Matrix Traversal
 
 ```
@@ -313,6 +337,8 @@ Comprehensive test cases
 ```
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/13-matrix-traversal.go)
+
+---
 
 #### 14: Back Tracking
 
@@ -337,6 +363,8 @@ Complex problem solving
 ```
 
 #### [Code](https://github.com/giridharmb/programming-questions/blob/master/14-back-tracking.go)
+
+---
 
 #### 15: Dynamic Programming
 
